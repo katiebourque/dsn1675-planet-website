@@ -21,8 +21,9 @@ html {
 }
 
 .tagline {
-    background-color: s#e2e2e2;
+    background-color: #e2e2e2;
     text-align: center;
+    padding: 1rem;
 }
 
 body {
@@ -39,7 +40,6 @@ img {
 
 .nav {
     list-style-type: none; 
-    padding: 0;
     
 }
 
